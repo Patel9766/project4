@@ -1,0 +1,13 @@
+1]==Create Your Repository Structure
+2]==set Up GitHub Secrets
+In your repo:
+Go to Settings → Secrets and variables → Actions
+Add:
+DOCKERHUB_USERNAME
+DOCKERHUB_PASSWORD
+
+3]==Push and Trigger GitHub Actions
+
+4]==Install Docker Locally
+
+5]==Run the Image Locally
